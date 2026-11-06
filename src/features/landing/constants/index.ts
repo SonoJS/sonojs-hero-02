@@ -1,6 +1,0 @@
-export {
-  STAGE_CONTAINER_WIDTH,
-  WATER_WAVE_IMAGE,
-  WATER_WAVE_DESKTOP,
-  WATER_WAVE_MOBILE,
-} from "./stage";

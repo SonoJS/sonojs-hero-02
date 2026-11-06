@@ -1,1 +1,0 @@
-export { FloatingFruits } from "./components";
